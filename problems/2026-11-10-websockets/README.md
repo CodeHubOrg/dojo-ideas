@@ -22,6 +22,7 @@ Suggested tests:
 ## Resources
 
 - [websockets (Python library)](https://websockets.readthedocs.io/)
+- [Socket.IO](https://socket.io/docs/v4/)
 
 ## Solutions
 
