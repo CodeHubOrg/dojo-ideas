@@ -1,4 +1,4 @@
-# Example Template,should be called readme.md
+# Example Template
 
 ## Problem Description
 
