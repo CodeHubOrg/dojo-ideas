@@ -1,4 +1,4 @@
-# Example Template
+# Example Template for a problem's README.md
 
 ## Problem Description
 
