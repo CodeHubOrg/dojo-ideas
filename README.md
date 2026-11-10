@@ -6,5 +6,6 @@ best practices as well as actual problems and solutions encountered during
 actual dojos.
 
 The problems are gathered in the `problems` directory, with each problem having
-its own subdirectory containing the problem description, any relevant resources,
-and solutions if available. 
+its own subdirectory that contains the problem description, in its own README.md
+file, any relevant resources such as test files, and solutions from previous
+teams if available. 
