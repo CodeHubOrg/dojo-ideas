@@ -2,12 +2,12 @@
 
 ## Timings
 - 18:00 -- start
-- 18:15 - 18:30 -- introduce the problem and timings, split into teams
-- 18:30 - 19:30 -- 1 hour to develop your solutions!
-- **19:30 DEADLINE keyboards down!**
-- 19:30 - 20:30 -- each team demos their solution & shares it via the repo
-- 20:10 -- everyone votes
-- Note the winning team in the repository
+- 18:15 -- introduce the problem and timings, split into teams (max 3 teams)
+- 18:30 -- 1 hour to develop your solutions!
+- **19:30 -- DEADLINE keyboards down!**
+- 19:30 -- each team demos their solution & shares it via the repo
+- 20:10 -- everyone votes. Note who was the winning team in the repository
+- 20:30 -- end
 
 ## Problem / Challenge
 Build a 2D browser version of the retro game **Missile Command**! Incoming missiles are incoming toward your cities. Click on the screen to send intecepting missiles to destroy them before they hit.
