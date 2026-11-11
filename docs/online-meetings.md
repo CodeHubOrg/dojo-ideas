@@ -6,7 +6,7 @@ earnest around 18:15-18:30.
 ## Timings
 18:00 -- start
 
-18:15 -- introduce the problem and timings, split into teams (max 3 teams)
+18:15 -- introduce the problem and timings, split into teams (max 4 teams, due to limited demo time)
 
 18:30 -- 1 hour to develop your solutions!
 19:30 -- DEADLINE keyboards down!
